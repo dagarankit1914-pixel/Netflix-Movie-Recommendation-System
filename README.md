@@ -1,21 +1,27 @@
-# Netflix Movie Recommendation System
+# Netflix
 
 ## Overview
-A movie recommendation system built using collaborative filtering techniques to recommend movies based on user preferences.
+A personalized movie recommendation system using collaborative filtering and SVD.
 
-## Technologies
+## Features
+- Movie recommendations
+- Data preprocessing
+- Collaborative filtering
+- Model evaluation
+
+## Technologies Used
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
-- Google Colab
+- Surprise
+- Jupyter Notebook
 
-## Features
-- Data preprocessing
-- User similarity calculation
-- Movie recommendations
-- Large dataset handling
+## Installation
+Follow the project instructions and install dependencies from requirements.txt (if provided).
 
-## Future Improvements
-- Web application
-- Real-time recommendations
+## Author
+Ankit Dagar
+
+## License
+MIT
